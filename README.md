@@ -1,0 +1,2 @@
+# hellophonegap
+starting phonegap build
